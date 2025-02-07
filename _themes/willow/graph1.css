@@ -1,0 +1,93 @@
+.mstheme
+{
+	nav-banner-image: url(awillbnr.gif);
+	separator-image: url(awillrul.gif);
+	list-image-1: url(awillbu1.gif);
+	list-image-2: url(awillbu2.gif);
+	list-image-3: url(awillbu3.gif);
+	navbutton-horiz-pushed: url(awillhbs.gif);
+	navbutton-horiz-normal: url(awillhb.gif);
+	navbutton-horiz-hovered: url(awillhbh.gif);
+	navbutton-vert-pushed: url(awillvbs.gif);
+	navbutton-vert-normal: url(awillvb.gif);
+	navbutton-vert-hovered: url(awillvbh.gif);
+	navbutton-home-normal: url(willhoma.gif);
+	navbutton-home-hovered: url(willhomh.gif);
+	navbutton-home-pushed: url(willhoma.gif);
+	navbutton-up-normal: url(willupa.gif);
+	navbutton-up-hovered: url(willuph.gif);
+	navbutton-up-pushed: url(willupa.gif);
+	navbutton-prev-normal: url(willprva.gif);
+	navbutton-prev-hovered: url(willprvh.gif);
+	navbutton-prev-pushed: url(willprva.gif);
+	navbutton-next-normal: url(willnxta.gif);
+	navbutton-next-hovered: url(willnxth.gif);
+	navbutton-next-pushed: url(willnxta.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: "Century Schoolbook", "Times New Roman", Times;
+	font-size: 6;
+	font-weight: bold;
+	color: rgb(204,204,153);
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Arial, Helvetica;
+	font-size: 2;
+	color: rgb(0,0,0);
+}
+.mstheme-vert-navtxt
+{
+	font-family: Arial, Helvetica;
+	font-size: 2;
+	color: rgb(0,0,0);
+}
+.mstheme-navtxthome
+{
+	font-family: Arial, Helvetica;
+	font-size: 1;
+	font-weight: bold;
+	text-align: right;
+	vertical-align: top;
+	color: rgb(0,0,0);
+}
+.mstheme-navtxtup
+{
+	font-family: Arial, Helvetica;
+	font-size: 1;
+	font-weight: bold;
+	text-align: right;
+	vertical-align: top;
+	color: rgb(0,0,0);
+}
+.mstheme-navtxtprev
+{
+	font-family: Arial, Helvetica;
+	font-size: 1;
+	font-weight: bold;
+	text-align: right;
+	vertical-align: top;
+	color: rgb(0,0,0);
+}
+.mstheme-navtxtnext
+{
+	font-family: Arial, Helvetica;
+	font-size: 1;
+	font-weight: bold;
+	text-align: right;
+	vertical-align: top;
+	color: rgb(0,0,0);
+}
+UL
+{ 
+	list-style-image: url(awillbu1.gif);
+}
+UL UL
+{
+	list-style-image: url(awillbu2.gif);
+}
+UL UL UL
+{
+	list-style-image: url(awillbu3.gif);
+}
